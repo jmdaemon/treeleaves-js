@@ -3,10 +3,10 @@
     "name": "Treeleaves",
     "version": "0.1.0",
     "description": "Directory bookmark tag generator",
-    "permissions": [],
+    "permissions": ["bookmarks"],
     "content_scripts": [{
           "matches": ["*://*/*"],
-          "js": ["dist/treeleaves.js"]
+          "js": ["treeleaves.js"]
         }
     ]
 
