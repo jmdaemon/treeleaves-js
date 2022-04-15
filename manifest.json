@@ -6,7 +6,7 @@
     "permissions": [],
     "content_scripts": [{
           "matches": ["*://*/*"],
-          "js": ["treeleaves.js"]
+          "js": ["dist/treeleaves.js"]
         }
     ]
 
