@@ -8,8 +8,8 @@
   "license": "AGPLv3",
   "private": false,
   "scripts": {
-    "build": "parcel build [treeleaves.ts] --experimental-scope-hoisting --no-source-maps --public-url ./",
-    "watch": "parcel watch [treeleaves.ts] --public-url ./"
+    "build": "parcel build treeleaves.ts --experimental-scope-hoisting --no-source-maps --public-url ./",
+    "watch": "parcel watch treeleaves.ts --public-url ./"
   },
   "dependencies": {
     "eslint": "^8.9.0",
