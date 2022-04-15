@@ -4,7 +4,7 @@
   "description": "Directory bookmark tag generator",
   "main": "treeleaves.js",
   "repository": "https://github.com/jmdaemon/treeleaves-js",
-  "author": "Joseph Diza <josephm.diza@gmail.com",
+  "author": "Joseph Diza <josephm.diza@gmail.com>",
   "license": "AGPLv3",
   "private": false,
   "dependencies": {
