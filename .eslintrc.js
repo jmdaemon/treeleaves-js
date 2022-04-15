@@ -8,3 +8,9 @@ module.exports = {
   root: true,
   extends: ["xtrict"],
 };
+
+module.exports = {
+  run: {
+    target: ["firefox"],
+  },
+};
